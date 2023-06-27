@@ -1,7 +1,7 @@
 # react-audio
 
-# Install live server from vs code extension
+1. Install live server from vs code extension
 
-# click on the live server located at bottom right of vs code
+2. Click on the live server located at bottom right of vs code
 
-$ code should be up and running
+3. Code should be up and running
